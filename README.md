@@ -65,6 +65,22 @@ Actualmente estoy desarrollándome en los ámbitos de **robótica** y **automati
 
 ## Estadísticas de GitHub
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlbaMarq&count_private=true&show_icons=true&theme=vue" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbaMarq&theme=vue" />
+</a>
+
+
+
+
+
+
+
+
+
+<!-- 
 Las siguientes insignias resumen mi actividad en esta plataforma.
 
 <a href="https://github.com/AlbaMarq">
@@ -72,6 +88,7 @@ Las siguientes insignias resumen mi actividad en esta plataforma.
     <br>
     <img src="https://github-trophies.vercel.app/?username=AlbaMarq&theme=monokai&no-bg=true&no-frame=true&rank=SECRET&file=1&column=4&margin-w=5&margin-h=5" alt="Trofeos secretos" weight="200vw"/>
 </a>
+-->
 
 <!-- 
 ## ▪️ Tech Stats 📊
