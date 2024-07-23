@@ -65,9 +65,12 @@ Actualmente estoy desarrollándome en los ámbitos de **robótica** y **automati
 
 ## Estadísticas de GitHub
 
+<!-- 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlbaMarq&count_private=true&show_icons=true&theme=vue" />
 </a>
+-->
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbaMarq&theme=vue" />
 </a>
