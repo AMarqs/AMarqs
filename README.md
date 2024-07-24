@@ -72,7 +72,7 @@ Actualmente estoy desarrollándome en los ámbitos de **robótica** y **automati
 -->
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbaMarq&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMarqs&theme=vue" />
 </a>
 
 
