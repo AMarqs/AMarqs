@@ -19,7 +19,7 @@ $$
 \huge\text{👋 Hola, soy **Alba** }
 $$
 
-Soy graduada en ingeniera electrónica, robótica y mecatrónica. Desde noviembre de 2023, también soy de estudiante en la escuela 42Málaga de la Fundación Telefónica.
+Soy graduada en Ingeniera Electrónica, Robótica y Mecatrónica. Desde noviembre de 2023, también soy de estudiante en la escuela 42Málaga de la Fundación Telefónica.
 
 Actualmente estoy desarrollándome en los ámbitos de **robótica** y **automatización**:
 
