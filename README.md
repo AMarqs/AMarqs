@@ -1,135 +1,75 @@
-<!--
-## Hi there 👋
-
-**AlbaMarq/AlbaMarq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<!-- IMAGEN -------------------------------------------------------------------------------------------------------------------->
 <div>
     <p align="center">
         <img src="images/mano-robotica.png#gh-light-mode-only" alt="Banner (claro)" />
         <img src="images/mano-robotica.png#gh-dark-mode-only" alt="Banner (oscuro)" />
     </p>
-    <p align="left">
-        <a href="/languages/README-en.md">English<a> · <b>Español</b>
-        <img align="right" src="https://komarev.com/ghpvc/?username=AlbaMarq" alt="Visitas"/>
-    </p>
 </div>
 
-👋 Hola, soy **Alba**, ingeniera electrónica, robótica y mecatrónica, además de estudiante en la escuela 42 de la Fundación Telefónica.
+<!-- IDIOMAS ------------------------------------------------------------------------------------------------------------------->
+<div>
+    <p align="left">
+        <a href="/languages/README-en.md">English<a> · <b>Español</b>
+    </p>
+</div>
+       
+<br>
+
+<!-- PRESENTACIÓN -------------------------------------------------------------------------------------------------------------->
+
+$$
+\huge\text{👋 Hola, soy **Alba** }
+$$
+
+Soy graduada en ingeniera electrónica, robótica y mecatrónica. Desde noviembre de 2023, también soy de estudiante en la escuela 42Málaga de la Fundación Telefónica.
 
 Actualmente estoy desarrollándome en los ámbitos de **robótica** y **automatización**:
 
-- Desarrollando mini proyectos de robótica móvil con ROS
+- Desarrollando mini proyectos de robótica móvil con ROS.
 - Realizando cursos para profundizar en el aprendizaje de Machine Learning e IA.
 - Obteniendo certificaciones que demuestren y validen mis conocimientos.
   
-#
+<br>
 
 ## Conocimiento técnico
 
-### Lenguajes
+|                      |  Trabajando con   |
+|----------------------|-------------------|
+| Lenguajes            | ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=black&color=%23A8B9CC) ![Python Badge](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=yellow&logoSize=auto&color=%233776AB)    |
+| Robótica             | ![ROS](https://img.shields.io/badge/ROS-blue?style=for-the-badge&logo=ros&logoColor=white&color=%2322314E) ![GAZEBO](https://img.shields.io/badge/GAZEBO-orange?style=for-the-badge&logo=facebookgaming&logoColor=white&color=%23FB923C) ![MATLAB](https://img.shields.io/badge/MATLAB-blue?style=for-the-badge&logo=atlassian&logoColor=white&color=blue)    |
+| Docs                 | ![Notion Badge](https://img.shields.io/badge/NOTION-white?style=for-the-badge&logo=notion&logoColor=black&color=%23FFFFFF) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LATEX](https://img.shields.io/badge/LATEX-green?style=for-the-badge&logo=latex&logoColor=white&color=%23008080)    |
+| SO                   | ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge)    |
+| VM                   | ![VMWARE](https://img.shields.io/badge/VMWARE-gray?style=for-the-badge&logo=vmware&logoColor=white&color=%23607078) ![VirtualBox Badge](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=fff&style=for-the-badge)    |
+| Control de versiones | ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)   ![GITHUB](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white&color=%23181717)    |
+| Futuro               | ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)    |
+| Diseño               | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)      |
+| Educación            | ![42 Badge](https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=for-the-badge) ![UMA](https://img.shields.io/badge/UMA-blue?style=for-the-badge&logoColor=white&color=%23071D49)    |
 
-<!-- ![Python](https://skillicons.dev/icons?i=python,c) -->
-
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=yellow" alt="Python"> <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C">
-
-### Robótica
-
-![Python](https://skillicons.dev/icons?i=ros,gazebo,matlab,arduino)
-
-### Control de versiones
-
-<!-- ![Python](https://skillicons.dev/icons?i=git,github) -->
-
-<img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
-
-### Documentación
-
-<!-- ![Python](https://skillicons.dev/icons?i=notion,latex,overleaf) -->
-
-<img src="https://img.shields.io/badge/Notion-%23FFFFFF.svg?style=flat&logo=notion&logoColor=black" alt="Notion"> <img src="https://img.shields.io/badge/Latex-%23008080.svg?style=flat&logo=latex&logoColor=white" alt="LaTeX"> <img src="https://img.shields.io/badge/Overleaf-%2347A141.svg?style=flat&logo=overleaf&logoColor=white" alt="Overleaf">
-
-
-#
+<br>
 
 ## Estadísticas de GitHub
 
-<!-- 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlbaMarq&count_private=true&show_icons=true&theme=vue" />
-</a>
+<div>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=AMarqs&count_private=true&show_icons=true&theme=vue&title_color=9966ff&icon_color=9966ff&card_width=500px" />
+        <a href="https://git.io/streak-stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMarqs&layout=compact&theme=transparent&text_color=000000&title_color=9966ff&card_width=400px" />
+        </a>
+    </p>
+</div>
+
+<!--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AMarqs&show_icons=true&theme=transparent&text_color=000000&title_color=8c4966&icon_color=8c4966)
 -->
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMarqs&theme=vue" />
-</a>
-
-
-
-
-
-
-
-
-
-<!-- 
-Las siguientes insignias resumen mi actividad en esta plataforma.
-
-<a href="https://github.com/AlbaMarq">
-    <img src="https://github-trophies.vercel.app/?username=AlbaMarq&theme=monokai&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C&file=1&column=6&margin-w=5&margin-h=5" alt="Trofeos" weight="200vw"/>
-    <br>
-    <img src="https://github-trophies.vercel.app/?username=AlbaMarq&theme=monokai&no-bg=true&no-frame=true&rank=SECRET&file=1&column=4&margin-w=5&margin-h=5" alt="Trofeos secretos" weight="200vw"/>
-</a>
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMarqs&theme=vue)
 -->
 
-<!-- 
-## ▪️ Tech Stats 📊
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ros,python,c,git,github,vscode,linux" />
-  </a>
-</p>
-<br>
--->
-
-<!-- 
+<!--
 ## ▪️ GitHub Stats :octocat:
-
 <div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbaMarq&show_icons=true&theme=holi&rank_icon=github) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbaMarq&layout=compact&theme=holi)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMarqs&show_icons=true&theme=holi&rank_icon=github) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMarqs&layout=compact&theme=holi)
 </div>
 -->
-
-<!-- 
-## ▪️ Contacto 📥
-
-Email: pablogon@student.42malaga.com
-
-<a href='mailto:pablogon@student.42malaga.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=flat&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
-</a>
-
-<a href='https://www.linkedin.com/in/pablooglez/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
-</a>
--->
-
-
-
-
-
-
-
