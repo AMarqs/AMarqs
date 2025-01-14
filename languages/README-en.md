@@ -9,7 +9,7 @@
 <!-- LANGUAGES ----------------------------------------------------------------------------------------------------------------->
 <div>
     <p align="left">
-        <a href="README.md">Español<a> · <b>English</b>
+        <a href="../README.md">Español<a> · <b>English</b>
     </p>
 </div>
 
